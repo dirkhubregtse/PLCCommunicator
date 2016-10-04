@@ -1,0 +1,15 @@
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Release\PLCCommunicator.exe.config
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Release\PLCCommunicator.exe.manifest
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Release\PLCCommunicator.application
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Release\PLCCommunicator.exe
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Release\PLCCommunicator.pdb
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Release\S7.Net.dll
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Release\S7.Net.xml
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Release\PLCCommunicator.csprojResolveAssemblyReference.cache
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Release\PLCCommunicator.Form1.resources
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Release\PLCCommunicator.Properties.Resources.resources
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Release\PLCCommunicator.csproj.GenerateResource.Cache
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Release\PLCCommunicator.exe.manifest
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Release\PLCCommunicator.application
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Release\PLCCommunicator.exe
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Release\PLCCommunicator.pdb

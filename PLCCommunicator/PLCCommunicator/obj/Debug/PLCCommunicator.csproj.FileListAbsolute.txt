@@ -1,0 +1,15 @@
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Debug\PLCCommunicator.exe.config
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Debug\PLCCommunicator.exe
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Debug\PLCCommunicator.pdb
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Debug\PLCCommunicator.csprojResolveAssemblyReference.cache
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Debug\PLCCommunicator.Form1.resources
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Debug\PLCCommunicator.Properties.Resources.resources
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Debug\PLCCommunicator.csproj.GenerateResource.Cache
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Debug\PLCCommunicator.exe
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Debug\PLCCommunicator.pdb
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Debug\S7.Net.dll
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Debug\S7.Net.xml
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Debug\PLCCommunicator.exe.manifest
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\bin\Debug\PLCCommunicator.application
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Debug\PLCCommunicator.exe.manifest
+c:\users\dirk.hubregtse\documents\visual studio 2015\Projects\PLCCommunicator\PLCCommunicator\obj\Debug\PLCCommunicator.application
